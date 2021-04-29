@@ -1,0 +1,20 @@
+.logo img {
+  width: 300px;
+}
+
+.content-logo img {
+  width: 100px;
+}
+
+.activate-button {
+  padding: 10px;
+  margin: 20px
+}
+
+.tweet-content {
+  display: none;
+}
+
+.tweet-content .content-logo {
+	margin: 20px;
+}
